@@ -17,9 +17,10 @@ It provides real-time password analysis, visual strength indicators, and secure 
 - Regular Expressions (re)
 
 ## Screenshot
-![SecurePass UI](screenshot.png)
+![SecurePass UI](securepass_ui.png)
 
 
 python PasswordStrengthChecker.py
+
 
 
